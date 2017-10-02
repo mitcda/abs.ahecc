@@ -1,10 +1,10 @@
-Package: sacc2016
-Title: Standard Australian Classification of Countries 2016
+Package: abs.ahecc
+Title: Australian Harmonized Export Commodity Classification (AHECC), 2017
 Version: 0.1
 Authors@R: person("David", "Mitchell", email = "david.p.mitchell@homemail.com.au", role = c("aut", "cre"))
-Description: Provides data from the Australian Bureau of Statistics' (ABS) Standard Australian Classification of Countries (SACC) 2016.
-URL: \url{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}
-Depends: R (>= 3.3.3)
+Description: Provides data from the Australian Bureau of Statistics' (ABS) Australian Harmonized Export Commodity Classification (AHECC) 2007, 2012 and 2017.
+URL: \url{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1233.0}
+Depends: R (>= 3.0)
 License: \href{https://cran.r-project.org/web/licencese/GPL-2}{GPL-2}|\href{https://cran.r-project.org/web/licencese/GPL-3}{GPL-3}
 Encoding: UTF-8
 LazyData: true
