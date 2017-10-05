@@ -1,5 +1,5 @@
 Package: abs.ahecc
-Title: Australian Harmonized Export Commodity Classification (AHECC), 2017
+Title: Australian Harmonized Export Commodity Classification (AHECC), 2007-2017
 Version: 0.1
 Authors@R: person("David", "Mitchell", email = "david.p.mitchell@homemail.com.au", role = c("aut", "cre"))
 Description: Provides data from the Australian Bureau of Statistics' (ABS) Australian Harmonized Export Commodity Classification (AHECC) 2007, 2012 and 2017.
